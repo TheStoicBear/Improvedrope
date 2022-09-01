@@ -1,8 +1,3 @@
-# Improved Rope
-Improved Rope textures will evolve as more are worked on!
-
-
-
 This is a simple re-texture of that STEEL Cable which is on tow trucks most rope scripts.
 
 Saftey orange recovery straps is what I was shooting for.
