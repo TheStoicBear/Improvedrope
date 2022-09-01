@@ -1,4 +1,4 @@
-This is a simple re-texture of that STEEL Cable which is on tow trucks most rope scripts.
+#This is a simple re-texture of that STEEL Cable which is on tow trucks most rope scripts.
 
 Saftey orange recovery straps is what I was shooting for.
 
